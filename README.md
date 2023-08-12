@@ -4,7 +4,7 @@ I'm Benjy, currently a Penultimate Computer Science Student at NUS and an aspiri
 
 ### Here's what I'm currently working on:
 
-🧑🏻‍💻 ** Picking up FastAPI, Flask, Docker, and Redis!**
+🧑🏻‍💻 **Picking up FastAPI, Flask, Docker, and Redis!**
 
 
 ### Hoping to learn...:
