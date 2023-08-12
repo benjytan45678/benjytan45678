@@ -28,7 +28,6 @@ Feel free to reach out at ```benjytan45678@gmail.com```.
 
 <br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benjytan45678&count_private=true&custom_title=Benjy+Tan's+GitHub+Stats&show_icons=true&theme=radical" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjytan45678&show_icons=true&locale=en&layout=compact" alt="benjytan45678" /></p>
 
