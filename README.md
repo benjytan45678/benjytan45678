@@ -1,16 +1,31 @@
-### Hi there 👋
+## *Hi There!* 😊
 
-<!--
-**benjytan45678/benjytan45678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Benjy, currently a Penultimate Computer Science Student at NUS and an aspiring software engineer who loves working on new projects and tinkering with new tech stacks! 💻☕
 
-Here are some ideas to get you started:
+### Here's what I'm currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑🏻‍💻 ** Picking up FastAPI, Flask, Docker, and Redis!**
+
+
+### Hoping to learn...:
+
+🍇 **AWS**
+🥬 **Selenium**
+📐 **Three.js**
+
+Feel free to reach out at ```benjytan45678@gmail.com```.
+
+### Some things I've worked with:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,firebase,nodejs,express,mongodb" /> <br/>
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,postgres,mysql,flutter,figma,postman" />
+  </a>
+</p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjytan45678&show_icons=true&locale=en&layout=compact" alt="benjytan45678" /></p>
+
+<p align="center"><a href="https://www.linkedin.com/in/benjy-tan-33b01b1b9/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
