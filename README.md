@@ -15,6 +15,8 @@ I'm Benjy, currently a Penultimate Computer Science Student at NUS and an aspiri
 
 Feel free to reach out at ```benjytan45678@gmail.com```.
 
+<p align="left"><a href="https://www.linkedin.com/in/benjy-tan-33b01b1b9/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+
 ### Some things I've worked with:
 
 <p>
@@ -26,6 +28,8 @@ Feel free to reach out at ```benjytan45678@gmail.com```.
 
 <br>
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benjytan45678&count_private=true&custom_title=Benjy+Tan's+GitHub+Stats&show_icons=true&theme=radical" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjytan45678&show_icons=true&locale=en&layout=compact" alt="benjytan45678" /></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/benjy-tan-33b01b1b9/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+
