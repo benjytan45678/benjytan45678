@@ -1,6 +1,6 @@
 ## *Hi There!* 😊
 
-I'm Benjy, currently a Penultimate Computer Science Student at NUS and an aspiring software engineer who loves working on new projects and tinkering with new tech stacks! 💻☕
+I'm Benjy, currently a Final Year Computer Science Student at NUS and an aspiring software engineer who loves working on new projects and tinkering with new tech stacks! 💻☕
 
 ### Here's what I'm currently working on:
 
